@@ -59,16 +59,18 @@ Immersive products, real-time 3D, and interfaces that feel alive.
 ## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FursiK911&show_icons=true&hide_border=true&theme=transparent&title_color=00e5ff&icon_color=ff3bd4&text_color=c9d1d9&bg_color=00000000" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FursiK911&layout=compact&hide_border=true&theme=transparent&title_color=00e5ff&text_color=c9d1d9&bg_color=00000000" height="165" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FursiK911&theme=github_dark" width="100%" alt="GitHub profile details" />
 </div>
+
+<table>
+  <tr>
+    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FursiK911&theme=github_dark" width="100%" alt="GitHub statistics" /></td>
+    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FursiK911&theme=github_dark" width="100%" alt="Top languages" /></td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=FursiK911&theme=transparent&hide_border=true" width="70%" alt="Contribution streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FursiK911&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
 </div>
 
 ## Public repositories
