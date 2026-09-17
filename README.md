@@ -8,7 +8,7 @@
 
 ### Unity / XR Developer & Frontend Engineer
 
-Immersive products, real-time 3D, and interfaces that feel alive.
+I build immersive VR/AR experiences and product interfaces with Unity, C#, React and TypeScript.
 
 <a href="https://fursik911.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/dmitry-fursov-251097213/">LinkedIn</a> · <a href="mailto:19fursik99@gmail.com">Email</a> · <a href="https://t.me/FursiK911">Telegram</a>
 
@@ -16,28 +16,28 @@ Immersive products, real-time 3D, and interfaces that feel alive.
 
 ## What I build
 
-<table>
+<table width="100%">
   <tr>
-    <td width="33%"><strong>Unity / XR</strong><br />VR training, interactive 3D and spatial interfaces for Meta Quest, SteamVR and desktop.</td>
-    <td width="33%"><strong>Frontend</strong><br />Product interfaces and web applications with React, TypeScript and modern state management.</td>
-    <td width="33%"><strong>AR / 3D</strong><br />Mobile AR, real-time 3D and experiences connecting physical products with digital content.</td>
+    <td width="33.333%"><strong>Unity / XR</strong><br />VR training, interactive 3D and spatial interfaces for Meta Quest, SteamVR and desktop.</td>
+    <td width="33.333%"><strong>Frontend</strong><br />Product interfaces and web applications with React, TypeScript and modern state management.</td>
+    <td width="33.333%"><strong>AR / 3D</strong><br />Mobile AR, real-time 3D and experiences connecting physical products with digital content.</td>
   </tr>
 </table>
 
 ## Selected work
 
-<table>
+<table width="100%">
   <tr>
-    <td width="33%" valign="top">
+    <td width="33.333%" valign="top">
       <a href="https://fursik911.github.io/projects/mychessvr"><img src="https://fursik911.github.io/images/projects/my-chess-vr/location_library.webp" alt="MyChessVR" width="100%" /></a>
       <br /><br /><strong>MyChessVR</strong><br />A SteamVR chess experience with hand interaction, puzzles and local Stockfish move analysis across virtual environments.<br /><br /><a href="https://fursik911.github.io/projects/mychessvr">Case study</a> · <a href="https://store.steampowered.com/app/3468250/myChess_VR">Steam</a>
     </td>
-    <td width="33%" valign="top">
+    <td width="33.333%" valign="top">
       <a href="https://fursik911.github.io/projects/neo4-sightline"><img src="https://fursik911.github.io/images/projects/neo4-sightline/screen_1.webp" alt="Neo4 Web / Interior Sightline" width="100%" /></a>
       <br /><br /><strong>Neo4 Web / Interior Sightline</strong><br />A browser-based 3D property experience combining React interfaces, Unreal Engine and Pixel Streaming.<br /><br /><a href="https://fursik911.github.io/projects/neo4-sightline">Case study</a>
     </td>
-    <td width="33%" valign="top">
-      <a href="https://fursik911.github.io/projects/ar-coloring"><img src="https://fursik911.github.io/images/projects/ar-coloring/ar-coloring-home.webp" alt="AR Coloring" width="100%" /></a>
+    <td width="33.333%" valign="top">
+      <a href="https://fursik911.github.io/projects/ar-coloring"><img src="ar-coloring-themes-16x9.webp" alt="AR Coloring" width="100%" /></a>
       <br /><br /><strong>AR / Unity products</strong><br />Commercial and experimental mobile experiences connecting cameras, printed content and 3D characters.<br /><br /><a href="https://fursik911.github.io/projects/ar-coloring">AR Coloring</a> · <a href="https://fursik911.github.io/projects/chudobooks">Chudobooks</a>
     </td>
   </tr>
@@ -45,14 +45,14 @@ Immersive products, real-time 3D, and interfaces that feel alive.
 
 ## Tech stack
 
-<table>
+<table width="100%">
   <tr>
-    <td><strong>Unity / XR</strong><br />Unity · C# · XR Interaction Toolkit · SteamVR · Meta Quest · AR</td>
-    <td><strong>Frontend</strong><br />React · TypeScript · React Query · Redux · Mantine</td>
+    <td width="50%"><strong>Web</strong><br />React · TypeScript · JavaScript · Next.js · Vue.js · Redux Toolkit · TanStack Query · Mantine</td>
+    <td width="50%"><strong>Game Development</strong><br />Unity · C# · Unreal Engine · Godot · Unigine · Photon · Mirror · WebGL</td>
   </tr>
   <tr>
-    <td><strong>3D / platforms</strong><br />Unreal Engine · Pixel Streaming · Flutter · Dart · Unigine</td>
-    <td><strong>Quality / tooling</strong><br />i18next · Vitest · Testing Library · GitHub Actions</td>
+    <td width="50%"><strong>Mobile</strong><br />React Native · Flutter · Dart · Firebase · ARKit · ARCore</td>
+    <td width="50%"><strong>XR</strong><br />OpenXR · SteamVR · Meta XR SDK · XR Interaction Toolkit · Vuforia · Meta Quest</td>
   </tr>
 </table>
 
@@ -62,10 +62,10 @@ Immersive products, real-time 3D, and interfaces that feel alive.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FursiK911&theme=github_dark" width="100%" alt="GitHub profile details" />
 </div>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FursiK911&theme=github_dark" width="100%" alt="GitHub statistics" /></td>
-    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FursiK911&theme=github_dark" width="100%" alt="Top languages" /></td>
+    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FursiK911&theme=github_dark" width="100%" alt="Most commit language" /></td>
+    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FursiK911&theme=github_dark" width="100%" alt="Top languages by repository" /></td>
   </tr>
 </table>
 
@@ -82,6 +82,4 @@ Immersive products, real-time 3D, and interfaces that feel alive.
 
 If you are building an interactive product, VR/XR experience or modern web interface, feel free to reach out through [LinkedIn](https://www.linkedin.com/in/dmitry-fursov-251097213/), [Email](mailto:19fursik99@gmail.com) or [Telegram](https://t.me/FursiK911).
 
-<div align="center">
-  <sub>Open to international opportunities · More work and case studies on the portfolio.</sub>
-</div>
+Open to international opportunities · More work and case studies on the [portfolio](https://fursik911.github.io/).
