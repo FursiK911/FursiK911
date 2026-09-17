@@ -4,7 +4,7 @@
 
 I build immersive VR/AR experiences and product interfaces with Unity, C#, React and TypeScript. My work spans interactive training, real-time 3D, mobile AR and production web products.
 
-Based in Ukraine · Open to international opportunities
+Open to international opportunities
 
 [Portfolio](https://fursik911.github.io/) · [LinkedIn](https://www.linkedin.com/in/dmitry-fursov-251097213/) · [Email](mailto:19fursik99@gmail.com) · [Telegram](https://t.me/FursiK911)
 
