@@ -61,13 +61,8 @@ I build immersive VR/AR experiences and product interfaces with Unity, C#, React
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FursiK911&theme=github_dark" width="100%" alt="GitHub profile details" />
 </div>
-
-<table width="100%">
-  <tr>
-    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FursiK911&theme=github_dark" width="100%" alt="Most commit language" /></td>
-    <td width="50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FursiK911&theme=github_dark" width="100%" alt="Top languages by repository" /></td>
-  </tr>
-</table>
+<br />
+<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FursiK911&theme=github_dark" width="49.5%" height="220" alt="Most commit language" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FursiK911&theme=github_dark" width="49.5%" height="220" alt="Top languages by repository" /></div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=FursiK911&theme=transparent&hide_border=true" width="70%" alt="Contribution streak" />
