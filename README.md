@@ -17,12 +17,6 @@ Open to international opportunities
 
 ## Selected work
 
-### Industrial VR training
-
-Interactive VR scenarios for industrial-equipment training, including step-by-step operations, action validation, hints, error handling and realistic equipment interactions. The portfolio case covers solo and cooperative training workflows for Meta Quest.
-
-[View the case study](https://fursik911.github.io/projects/industrial-vr)
-
 ### MyChessVR
 
 A SteamVR chess experience with hand interaction, classic games, chess puzzles and local Stockfish move analysis across multiple virtual environments.
