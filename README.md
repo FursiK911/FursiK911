@@ -1,56 +1,85 @@
+<div align="center">
+
+<a href="https://fursik911.github.io/">
+  <img src="https://fursik911.github.io/og-cover.webp" alt="Dmitry Fursov — Unity, Web and XR Developer" width="100%" />
+</a>
+
 # Dmitry Fursov
 
 ### Unity / XR Developer & Frontend Engineer
 
-I build immersive VR/AR experiences and product interfaces with Unity, C#, React and TypeScript. My work spans interactive training, real-time 3D, mobile AR and production web products.
+Immersive products, real-time 3D, and interfaces that feel alive.
 
-Open to international opportunities
+<a href="https://fursik911.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/dmitry-fursov-251097213/">LinkedIn</a> · <a href="mailto:19fursik99@gmail.com">Email</a> · <a href="https://t.me/FursiK911">Telegram</a>
 
-[Portfolio](https://fursik911.github.io/) · [LinkedIn](https://www.linkedin.com/in/dmitry-fursov-251097213/) · [Email](mailto:19fursik99@gmail.com) · [Telegram](https://t.me/FursiK911)
+</div>
 
 ## What I build
 
-- VR training and real-time interactive experiences for Meta Quest and desktop platforms.
-- Unity applications for VR, mobile, desktop and WebGL.
-- Product interfaces and web applications with React and TypeScript.
-- AR experiences that connect mobile apps, physical products and 3D content.
+<table>
+  <tr>
+    <td width="33%"><strong>Unity / XR</strong><br />VR training, interactive 3D and spatial interfaces for Meta Quest, SteamVR and desktop.</td>
+    <td width="33%"><strong>Frontend</strong><br />Product interfaces and web applications with React, TypeScript and modern state management.</td>
+    <td width="33%"><strong>AR / 3D</strong><br />Mobile AR, real-time 3D and experiences connecting physical products with digital content.</td>
+  </tr>
+</table>
 
 ## Selected work
 
-### MyChessVR
-
-A SteamVR chess experience with hand interaction, classic games, chess puzzles and local Stockfish move analysis across multiple virtual environments.
-
-[View the case study](https://fursik911.github.io/projects/mychessvr) · [Open on Steam](https://store.steampowered.com/app/3468250/myChess_VR)
-
-### Neo4 Web / Interior Sightline
-
-A browser-based 3D property experience where users can explore a residential project, configure interiors and inspect apartment details. The web product combines React interfaces with Unreal Engine and Pixel Streaming.
-
-[View the case study](https://fursik911.github.io/projects/neo4-sightline)
-
-### AR and Unity products
-
-Commercial and experimental projects connecting mobile cameras, printed content, projection scenes and 3D characters. Selected cases include AR Coloring, Chudobooks and Chudo Projector.
-
-[AR Coloring](https://fursik911.github.io/projects/ar-coloring) · [Chudobooks](https://fursik911.github.io/projects/chudobooks) · [Chudo Projector](https://fursik911.github.io/projects/chudo-projector)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://fursik911.github.io/projects/mychessvr"><img src="https://fursik911.github.io/images/projects/my-chess-vr/location_library.webp" alt="MyChessVR" width="100%" /></a>
+      <br /><br /><strong>MyChessVR</strong><br />A SteamVR chess experience with hand interaction, puzzles and local Stockfish move analysis across virtual environments.<br /><br /><a href="https://fursik911.github.io/projects/mychessvr">Case study</a> · <a href="https://store.steampowered.com/app/3468250/myChess_VR">Steam</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://fursik911.github.io/projects/neo4-sightline"><img src="https://fursik911.github.io/images/projects/neo4-sightline/screen_1.webp" alt="Neo4 Web / Interior Sightline" width="100%" /></a>
+      <br /><br /><strong>Neo4 Web / Interior Sightline</strong><br />A browser-based 3D property experience combining React interfaces, Unreal Engine and Pixel Streaming.<br /><br /><a href="https://fursik911.github.io/projects/neo4-sightline">Case study</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://fursik911.github.io/projects/ar-coloring"><img src="https://fursik911.github.io/images/projects/ar-coloring/ar-coloring-home.webp" alt="AR Coloring" width="100%" /></a>
+      <br /><br /><strong>AR / Unity products</strong><br />Commercial and experimental mobile experiences connecting cameras, printed content and 3D characters.<br /><br /><a href="https://fursik911.github.io/projects/ar-coloring">AR Coloring</a> · <a href="https://fursik911.github.io/projects/chudobooks">Chudobooks</a>
+    </td>
+  </tr>
+</table>
 
 ## Tech stack
 
-**Unity / XR**  
-Unity · C# · XR Interaction Toolkit · SteamVR · Meta Quest · AR
+<table>
+  <tr>
+    <td><strong>Unity / XR</strong><br />Unity · C# · XR Interaction Toolkit · SteamVR · Meta Quest · AR</td>
+    <td><strong>Frontend</strong><br />React · TypeScript · React Query · Redux · Mantine</td>
+  </tr>
+  <tr>
+    <td><strong>3D / platforms</strong><br />Unreal Engine · Pixel Streaming · Flutter · Dart · Unigine</td>
+    <td><strong>Quality / tooling</strong><br />i18next · Vitest · Testing Library · GitHub Actions</td>
+  </tr>
+</table>
 
-**Frontend**  
-React · TypeScript · React Query · Redux · Mantine
+## GitHub activity
 
-**Platforms and tooling**  
-Flutter · Dart · Unigine · Unreal Engine · Pixel Streaming · i18next · Vitest · Testing Library
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FursiK911&show_icons=true&hide_border=true&theme=transparent&title_color=00e5ff&icon_color=ff3bd4&text_color=c9d1d9&bg_color=00000000" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FursiK911&layout=compact&hide_border=true&theme=transparent&title_color=00e5ff&text_color=c9d1d9&bg_color=00000000" height="165" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=FursiK911&theme=transparent&hide_border=true" width="70%" alt="Contribution streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FursiK911&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
+</div>
 
 ## Public repositories
 
 - [unity-household-appliances](https://github.com/FursiK911/unity-household-appliances) — Unity VR training demo with interactive appliance scenarios and an APK build.
 - [FursiK911.github.io](https://github.com/FursiK911/FursiK911.github.io) — source code for this portfolio website.
 
-## Let’s connect
+## Let's connect
 
 If you are building an interactive product, VR/XR experience or modern web interface, feel free to reach out through [LinkedIn](https://www.linkedin.com/in/dmitry-fursov-251097213/), [Email](mailto:19fursik99@gmail.com) or [Telegram](https://t.me/FursiK911).
+
+<div align="center">
+  <sub>Open to international opportunities · More work and case studies on the portfolio.</sub>
+</div>
